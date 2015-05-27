@@ -1,5 +1,6 @@
 # DeepID_FaceClassify
 
+<p style='color:red;font-size:22px'>Sorry, the code of deepid is upgrading now. So deepid main program is not available temporary. </p>
 Implementation of DeepID using theano.
 
 u can also see a Chinese version of this doc in [chinese version](https://github.com/stdcoutzyx/DeepID_FaceClassify/blob/master/README_ch.md), or u can see that in my [blog](http://blog.csdn.net/stdcoutzyx/article/details/45570221).
